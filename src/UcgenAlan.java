@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class UcgenAlan {
     public static void main(String[] args) {
-        // üç kenar uzunluğu kullanıcıdan alınan üçgenin alanını hesaplama
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Üçgenin Alanı İçin 3 Kenarı Giriniz");
         System.out.println("İlk Kenar Uzunluğunu Giriniz: ");
