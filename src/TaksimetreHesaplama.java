@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Taksimetre {
+public class TaksimetreHesaplama {
     public static void main(String[] args) {
         //Java'da gidilen mesafeye göre taksimetre tutarını ekrana yazdıran program
         Scanner scanner = new Scanner(System.in);

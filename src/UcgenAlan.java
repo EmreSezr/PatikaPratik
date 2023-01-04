@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ucgen {
+public class UcgenAlan {
     public static void main(String[] args) {
         // üç kenar uzunluğu kullanıcıdan alınan üçgenin alanını hesaplama
         Scanner scanner = new Scanner(System.in);
