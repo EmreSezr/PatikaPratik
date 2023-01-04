@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class DaireAlan {
     public static void main(String[] args) {
-        //Yarıçapını kullanıcıdan aldığımız daire diliminin alanı
 
         Scanner scanner = new Scanner(System.in);
         double alan, r, a, pi = 3.14;
