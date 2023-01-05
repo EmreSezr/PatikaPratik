@@ -14,7 +14,7 @@ public class HavaSicakligiOnerme {
         } else if (weather > 15 && weather <= 25) {
             System.out.println("Pikniğe gidebiliresiniz.");
         } else if (weather > 25) {
-            System.out.println("Yüzmeye gidebilirsiniz. ");
+            System.out.println("Yüzmeye gidebilirsiniz.");
         }
 
 
