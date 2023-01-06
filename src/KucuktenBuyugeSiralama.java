@@ -4,7 +4,7 @@ public class KucuktenBuyugeSiralama {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Birinci A Sayısını Giriniz: ");
+        System.out.println("Birinci A Sayısını Giriniz:");
         int sayi1 = input.nextInt();
 
         System.out.println("İkinci B Sayısını Giriniz: ");
