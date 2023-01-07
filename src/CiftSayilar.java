@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SayiOrtalaması {
+public class CiftSayilar {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
