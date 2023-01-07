@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UcakBiletFiyatHesaplama {
+public class UcakBiletiFiyati {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
