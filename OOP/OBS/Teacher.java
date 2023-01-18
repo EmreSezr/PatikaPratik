@@ -1,6 +1,6 @@
 public class Teacher {
     String name;
-    String mpno;
+    String mpno; //mobile phone number
     String branch;
 
     public Teacher(String name, String mpno, String branch) {
