@@ -4,7 +4,7 @@ public class Course {
     String code;
     String prefix;
     int note;
-    int noteSecond;
+    int noteSecond ;
     //Sözlü notu
 
     public Course(String name, String code, String prefix) {

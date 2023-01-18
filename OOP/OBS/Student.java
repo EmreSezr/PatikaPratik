@@ -5,7 +5,7 @@ public class Student {
     Course fizik;
     Course kimya;
     double avarage;
-    boolean isPass;
+    boolean isPass ;
 
 
     Student(String name, int classes, String stuNo, Course mat, Course fizik, Course kimya) {

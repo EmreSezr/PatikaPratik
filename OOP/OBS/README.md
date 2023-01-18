@@ -4,7 +4,7 @@
 
 Nitelikler : name,code,prefix,note,Teacher Metotlar : Course() , addTeacher() , printTeacher()
 
-## Teacher Sınıfı Özellikleri :
+## Teacher Sınıfı Özellikleri  :
 
 Nitelikler : name,mpno,branch Metotlar : Teacher()
 
