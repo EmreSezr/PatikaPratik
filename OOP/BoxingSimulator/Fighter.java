@@ -1,3 +1,4 @@
+
 public class Fighter {
     String name;
     int damage;

@@ -1,3 +1,5 @@
+
+
 import java.util.Random;
 
 public class Ring {
@@ -12,11 +14,11 @@ public class Ring {
         if (tossCoin == 0) {
             this.f1 = f1;
             this.f2 = f2;
-            System.out.println("Dövüşçü 1 başlıyor: ");
+            System.out.println("\nDövüşçü 1 başlıyor:\n ");
         } else if (tossCoin == 1) {
             this.f1 = f2;
             this.f2 = f1;
-            System.out.println("Dövüşçü 2 başlıyor: ");
+            System.out.println("\nDövüşçü 2 başlıyor:\n ");
         }
         this.minWeight = minWeight;
         this.maxWeight = maxWeight;
