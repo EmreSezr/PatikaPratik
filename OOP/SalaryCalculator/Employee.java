@@ -45,9 +45,17 @@ class Employee {
     }
 
     public String toString() {
-        return "NAME= " + name
+        System.out.println("\nÇalışan:\n"+"NAME= " + name
+                + ", \nSALARY= " + salary
+                + ", \nWORK-HOURS= " + workHours
+                + ", \nHIRE-YEAR= " + hireYear + "\n===========================================\n ");
+        tax();
+        bonus();
+        raiseSalary();
+        return "Çalışana Ekstra Ücretler Eklendiğinde:\n"+"NAME= " + name
                 + ", \nSALARY= " + salary
                 + ", \nWORK-HOURS= " + workHours
                 + ", \nHIRE-YEAR= " + hireYear + "\n===========================================\n ";
+
     }
 }
