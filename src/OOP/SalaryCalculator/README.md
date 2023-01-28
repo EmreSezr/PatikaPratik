@@ -1,6 +1,6 @@
 ## Salary Calculator
 
-Java'da "OOP.SalaryCalculator.Employee" adında fabrika çalışanlarını temsil eden ve metotları ile çalışanların maaşlarını hesaplayan bir sınıf yazmalısınız. Bu sınıf 4 nitelik ve 5 metoda sahip olacaktır.
+Java'da "Employee" adında fabrika çalışanlarını temsil eden ve metotları ile çalışanların maaşlarını hesaplayan bir sınıf yazmalısınız. Bu sınıf 4 nitelik ve 5 metoda sahip olacaktır.
 
 ## Sınıfın Nitelikleri
 
@@ -10,7 +10,7 @@ workHours : Haftalık çalışma saati
 hireYear : İşe başlangıç yılı
 Sınıfın Metotları
 
-OOP.SalaryCalculator.Employee(name,salary,workHours,hireYear) : Kurucu metot olup 4 parametre alacaktır.
+Employee(name,salary,workHours,hireYear) : Kurucu metot olup 4 parametre alacaktır.
 
 tax() : Maaşa uygulanan vergiyi hesaplayacaktır.
 
