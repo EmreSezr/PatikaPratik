@@ -1,3 +1,5 @@
+# Üniversite Yönetim Diyagramı:
+
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
 2 - Departmanlara ait ofisler vardır.
