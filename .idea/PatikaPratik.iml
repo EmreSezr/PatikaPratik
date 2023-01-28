@@ -10,6 +10,11 @@
       <sourceFolder url="file://$MODULE_DIR$/OOP/BoxingSimulator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OOP/SalaryCalculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OOP/UniversiteYonetimSistemi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/OOP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/OOP/BoxingSimulator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/OOP/OBS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/OOP/SalaryCalculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/OOP/UniversityManagementDiagram" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
