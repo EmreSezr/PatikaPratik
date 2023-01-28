@@ -1,4 +1,6 @@
-public class Main {
+package OOP.OBS;
+
+public class MainOBS {
     public static void main(String[] args) {
 
         Course mat = new Course("Matematik ", "MAT101", "MAT");

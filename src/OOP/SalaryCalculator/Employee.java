@@ -1,3 +1,4 @@
+package OOP.SalaryCalculator;
 
 class Employee {
     private String name;

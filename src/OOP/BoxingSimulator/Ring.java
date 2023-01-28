@@ -1,4 +1,4 @@
-
+package OOP.BoxingSimulator;
 
 import java.util.Random;
 

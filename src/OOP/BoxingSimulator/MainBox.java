@@ -1,4 +1,6 @@
-public class MainBoks {
+package OOP.BoxingSimulator;
+
+public class MainBox {
     public static void main(String[] args) {
 
         Fighter fighter1 = new Fighter("Khabib", 15, 100, 90, 0,0);
