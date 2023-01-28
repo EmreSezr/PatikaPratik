@@ -1,4 +1,3 @@
-package OOP.BoxingSimulator;
 
 public class Fighter {
     String name;

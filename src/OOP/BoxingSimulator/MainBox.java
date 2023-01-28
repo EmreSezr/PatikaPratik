@@ -1,5 +1,3 @@
-package OOP.BoxingSimulator;
-
 public class MainBox {
     public static void main(String[] args) {
 
