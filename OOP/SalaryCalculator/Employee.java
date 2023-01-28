@@ -44,7 +44,7 @@ class Employee {
         return salary;
     }
 
-    public String toString() {
+    public String toPrint() {
         System.out.println("\nÇalışan:\n"+"NAME= " + name
                 + ", \nSALARY= " + salary
                 + ", \nWORK-HOURS= " + workHours
