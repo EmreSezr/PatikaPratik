@@ -1,14 +1,14 @@
 # Öğrenci Not Sistemi-
 
-## OOP.OBS.Course Sınıfı Özellikleri :
+## Course Sınıfı Özellikleri :
 
 Nitelikler : name,code,prefix,note,OOP.OBS.Teacher Metotlar : OOP.OBS.Course() , addTeacher() , printTeacher()
 
-## OOP.OBS.Teacher Sınıfı Özellikleri  :
+## Teacher Sınıfı Özellikleri  :
 
 Nitelikler : name,mpno,branch Metotlar : OOP.OBS.Teacher()
 
-## OOP.OBS.Student Sınıfı Özellikleri :
+## Student Sınıfı Özellikleri :
 
 Nitelikler : name,stuNo,classes,course1,course2,course3,avarage,isPass Metotlar : OOP.OBS.Student(), addBulkExamNote(), isPass(), calcAvarage(), printNote()
 

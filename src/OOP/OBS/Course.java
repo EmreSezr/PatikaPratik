@@ -1,5 +1,3 @@
-package OOP.OBS;
-
 public class Course {
     Teacher courseTeacher;
     String name;

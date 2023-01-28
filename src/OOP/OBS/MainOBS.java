@@ -1,5 +1,3 @@
-package OOP.OBS;
-
 public class MainOBS {
     public static void main(String[] args) {
 

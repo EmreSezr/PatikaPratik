@@ -1,5 +1,3 @@
-package OOP.OBS;
-
 public class Teacher {
     String name;
     String mpno; //mobile phone number
