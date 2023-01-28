@@ -15,7 +15,7 @@ class Employee {
     public double tax() {
         if (salary > 0 && salary <= 1000) {
             return 0;
-        } else if (salary > 0 && salary > 1000) {
+        } else if (salary > 1000) {
             return salary = salary - (salary * 0.03);
         } else {
             System.out.println("Maaş Eksi Değer Alamaz");
