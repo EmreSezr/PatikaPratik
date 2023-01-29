@@ -14,7 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/OOP/BoxingSimulator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/OOP/OBS" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/OOP/SalaryCalculator" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/OOP/UniversityManagementDiagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/OOP/UniversityManagement" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
