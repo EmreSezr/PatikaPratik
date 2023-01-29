@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/OOP/OBS" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/OOP/SalaryCalculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/OOP/UniversityManagement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/OOP/OOPDiagrams" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
