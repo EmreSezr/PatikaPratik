@@ -11,4 +11,4 @@ PSQL klasörü içinde "Orta Seviye Java Web Development" kursunda oluşturulan 
 src klasörü içinde "Başlangıç Seviye Java Web Development" kursunda oluşturulan örnek Java kodlama senaryoları mevcuttur.
 
 + ### PatikaPratik / src / OOP
-OOP klasörü içinde "Orta Seviye Java Web Development" kursunda, OOP mantığıyla hazırlanan senaryolara ilişkin Java Kodları ve senaryo diyagramları mevcuttur.
+OOP klasörü içinde "Başlangıç Seviye Java Web Development" kursunda, OOP mantığıyla hazırlanan senaryolara ilişkin Java Kodları ve senaryo diyagramları mevcuttur.
