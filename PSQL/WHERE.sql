@@ -30,3 +30,13 @@ SELECT * FROM Customers WHERE City IN ('Paris','London');
 
 -- "Products" tablosunda değeri "18" olmayanları getir
 SELECT * FROM Products WHERE Price != 18;
+
+
+
+-- "actor" tablosunda adı "Penelope" olanları veya "Bob" olanları getir
+SELECT * FROM actor  WHERE first_name = 'Penelope' OR first_name = 'Bob' ;
+
+
+
+-- "film" tablosunda rental_rate değeri "2.99" veya "4.99" olmayanları getir.
+SELECT * FROM film WHERE NOT (rental_rate = 4.99 OR rental_rate = 2.99)
