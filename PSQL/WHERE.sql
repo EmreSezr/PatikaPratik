@@ -1,7 +1,5 @@
 -- WHERE İŞLEMLERİ
 
-
-
 --Customers tablosunda "Country" değeri "Ankara" olan verileri getir
 SELECT * FROM Customers WHERE Country='Ankara';
 
